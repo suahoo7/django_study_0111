@@ -1,4 +1,4 @@
-#django process
+#django process 정리
 
 # 1) django-admin startproject django_project1 .
 # 2) python manage.py runserver
